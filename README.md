@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ninienowrin
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning ES6.
-- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...ninienowrin@gmail.com
 
 <!---
